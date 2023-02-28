@@ -1,6 +1,6 @@
-                                                                     ### Hi 👋 I'm Ashna 
+                                                       ### Hi 👋 I'm Ashna 
 
-                                                        A passionate Full Stack Developer from Pakistan.
+                                           A passionate Full Stack Developer from Pakistan.
 
 Here are some ideas to get you started:
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ✍ Random Dev Quote:
 
 
-         "Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated 🙌 ✌"
+    "Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated 🙌 ✌"
          
          
      
