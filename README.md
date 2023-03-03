@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     "Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated 🙌"
     
     ![Ashna Ali stats](https://github-readme-stats.vercel.app/api?username=Ashnaali3255&show_icons=true&theme=buefy&bg_color=faf5fa)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashnaali3255&theme=dark)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Ashnaali3255)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashnaali3255&layout=compact&theme=vision-friendly-dark)](https://github.com/Ashnaali3255/github-readme-stats)
          
          
